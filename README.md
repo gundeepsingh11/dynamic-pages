@@ -16,8 +16,7 @@ npm run dev
 
 
 ## Features 🎉
-Styled-componets
 
-  for styling
+* [NextJs](https://nextjs.org/learn/) - Styling Components
+* [Styled Components](https://www.styled-components.com/) - Styling Components
 
-NextJs

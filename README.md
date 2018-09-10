@@ -15,8 +15,8 @@ npm run dev
 ```
 
 
-## Features 🎉
+## Features 🔥
 
-* [NextJs](https://nextjs.org/learn/) - Styling Components
-* [Styled Components](https://www.styled-components.com/) - Styling Components
+* [NextJs](https://nextjs.org/learn/) - Routing, Webpack, Server ... 🔧
+* [Styled Components](https://www.styled-components.com/) - Styling Components 🎨
 

@@ -1,0 +1,20 @@
+{
+	"id": "132-28956",
+	"url": "https://sbux-eapi-dev-develop.apigee.net/v1/mart/content/content/v3/content/132-28956",
+	"displayName": "Coffee Starts Here",
+	"typeId": "132-28589-8",
+	"typeName": "Coffee",
+	"version": 1,
+	"updated": "2018-02-13T12:24:50",
+	"metadata": {
+		"code": "SUM81",
+		"active": true,
+		"mimeType": "application/json"
+	},
+	"content": {
+		"name": "Coffee Starts Here",
+		"origin": " ",
+		"anecdote": " ",
+		"image": "http://apipoc.starbucks.com/images/coffee-starts-here-card-sm.jpg"
+	}
+}

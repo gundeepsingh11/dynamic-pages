@@ -3,7 +3,7 @@ const next = require('next');
 const { parse } = require('url');
 
 const dev = process.env.NODE_ENV !== 'production';
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 
 const app = next({dir: './app', dev });
 const handle = app.getRequestHandler();
@@ -18,7 +18,9 @@ app.prepare().then(() => {
     const { pathname, query = {} } = parsedUrl;
     const route = routes[pathname];
     if (route) {
-      return app.render(req, res, route.page, query);
+      // whatever url is hit it will always redirect to "GenericController"
+      const actualPage = '/GenericController'
+      return app.render(req, res, actualPage, query);
     }
     return handle(req, res);
   });

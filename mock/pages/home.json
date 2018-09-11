@@ -1,0 +1,63 @@
+{
+    "id": "33-1248-64",
+    "url": "https://dev-digitalcontent-origin.starbucks.net/content/v3/page/33-1248-64",
+    "displayName": "Career Center",
+    "typeId": "33-620-128",
+    "typeName": "Right Rail Page",
+    "version": 10,
+    "updated": "2016-03-24T07:45:47",
+    "fileName": "index",
+    "metadata": {
+        "pageTitle": "Home Page",
+        "metaDescription": "Ready to move forward? Discover Starbucks job opportunities and be the change you wish to see.",
+        "metaKeywords": "Starbucks, Starbucks Coffee Company, Starbucks.com, Starbucks Corporation, Starbuck, SBUX, Seattle, Seattle’s Best, Seattle’s Best Coffee, SBC, partner, partners, job, jobs, career, careers, career center, job center, working, hiring, position, positions, opportunity, opportunities, Jobs, Careers, Opportunities, Employee, Military and Spouses, Starbucks Ahcievement Plan, Working at Starbucks"
+    },
+    "pageContent": 
+        [
+            {
+                "contentItem": {
+                    "id": "120-29613",
+                    "url": "https://dev-digitalcontent-origin.starbucks.net/content/v3/content/120-29612",
+                    "displayName": "Another Carousel Card",
+                    "typeId": "120-29598-8",
+                    "typeName": "Carousel Card",
+                    "version": 5,
+                    "updated": "2018-05-23T08:36:01",
+                    "metadata": {
+                        "streamType": "Carousel",
+                        "overrideRank": "500",
+                        "startDate": "2018-05-22T15:43:58.9",
+                        "endDate": "2019-05-17T16:51:41",
+                        "mimeType": "application/json"
+                    },
+                    "content": {
+                        "title": "SERIOUS STRAWBERRY FRAPPUCCINO® BLENDED BEVERAGE",
+                        "body": "Summer's favorite berry stars in our newest Frappuccino® Blended Beverage. We blend up milk and ice with a strawberry-botanical infusion, then layer in splashes of strawberry puree and top it all with vanilla whipped cream.",
+                        "image": "http://apipoc.starbucks.com/images/homebanner.jpg"                        
+                    }
+                },
+                "contentLayout": {
+                    "id": "33-640-32",
+                    "title": "Article [Main]",
+                    "updated": "2015-12-03T02:20:12.837",
+                    "metadata": {
+                        "view": "Starbucks:BannerWithText",
+                        "regionView": "Starbucks:Main"
+                    }
+                }
+            }
+        ],
+    "pageLayout": {
+        "id": "33-620-128",
+        "title": "Right Rail Page",
+        "fileExtension": "html",
+        "updated": "2015-12-30T13:46:33.303",
+        "metadata": {
+            "includes": [
+                "system/include/header",
+                "system/include/footer",
+                "system/include/prefooter"
+            ]
+        }        
+    }
+}

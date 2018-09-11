@@ -1,0 +1,19 @@
+{
+	"carouselItems":[
+		{
+			"title":"First Carousel Item",
+			"description": "First carousel item description",
+			"image":"img1.jpeg"
+		},
+		{
+			"title":"Second Carousel Item",
+			"description": "Second carousel item description",
+			"image":"img2.jpeg"
+		},
+		{
+			"title":"Third Carousel Item",
+			"description": "Third carousel item description",
+			"image":"img3.jpeg"
+		}
+	]
+}

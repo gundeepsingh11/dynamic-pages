@@ -45,7 +45,8 @@ yarn-error.log*
 
 
 # next.js build output
-.next
+.next/
+/app/.next/
 bundles
 iisnode
 *.log
